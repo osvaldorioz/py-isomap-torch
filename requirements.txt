@@ -1,0 +1,8 @@
+pybind11==2.13.6
+uvicorn==0.31.0
+fastapi==0.115.0
+setuptools==75.1.0
+pydantic==2.9.2
+matplotlib==3.10.0
+pandas==2.2.2
+
